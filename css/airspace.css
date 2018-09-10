@@ -80,11 +80,11 @@ header .navbar-default {
   border: 0px;
 }
 header .navbar-default .navbar-nav {
-  padding-top: 10px;
+  padding-top: 5px;
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
-  padding: 10px 26px;
+  padding: 10px 14px;
   font-size: 15px;
 }
 font header .navbar-default .navbar-nav li a:hover {
@@ -97,11 +97,11 @@ font header .navbar-default .navbar-nav li a:hover {
 	Slider Start
 --*/
 #slider {
-  background: url("../img/slider-bg.jpg") no-repeat;
+  background: url("../img/background.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 200px 0 280px 0;
+  padding: 110px 0 90px 0;
   position: relative;
 }
 #slider:before {
@@ -113,7 +113,7 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
+  background: linear-gradient(to left, #000, #00324d)
   opacity: 0.8;
 }
 #slider .block {
@@ -125,7 +125,13 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 45px;
   line-height: 60px;
   letter-spacing: 10px;
-  padding-bottom: 45px;
+  padding-bottom: 5px;
+  margin: auto;
+  margin-bottom: 40px;
+  margin-top: 24px;
+  width: 39%;
+  background-color: #fff6;
+
 }
 #slider .block p {
   font-size: 23px;
@@ -138,7 +144,7 @@ font header .navbar-default .navbar-nav li a:hover {
 	wrapper Start
 --*/
 #intro {
-  padding: 100px 0;
+  padding: 0px 0;
 }
 #intro .block h2 {
   padding-top: 35px;
@@ -148,9 +154,9 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .block p {
   color: #7B7B7B;
   padding-top: 20px;
+  line-height: inherit;
 }
 #intro .block img {
-  padding-left: 40px;
   width: 100%;
 }
 #intro .section-title {

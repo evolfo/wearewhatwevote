@@ -1,0 +1,108 @@
+/* HEADER CSS */
+
+.navbar-brand h1 {margin: 0; color: #b30808;}
+.navbar-brand a {}
+
+.centered-block {text-align: center;}
+.centered-block a {color: inherit;}
+
+.frontButton {border: 1px solid white;}
+
+/* INDEX CONTENT CSS */
+iframe {max-width: 100%;}
+
+.grey-background {background-color: #80808033;}
+
+.no-padding {padding: 0; display: flex;}
+
+#intro > .container {padding: 0px; width: 100%;}
+#intro > .container > .row {margin: 0px;}
+
+.grid-cell {padding: 60px;}
+.grid-cell img {max-width: 100%;}
+.grid-cell p {line-height: inherit; padding-top: 10px;}
+.grid-cell h3, h4 {text-align: center;}
+
+.block {padding: 48px;}
+.absolute-block {display: table-cell; bottom: 0;}
+
+.centered {text-align: center;}
+.centered img {width: 70%;}
+
+/* GRID CSS */
+.grid-about h3, h4 {margin-top: 0px;}
+
+.grid-full {padding: 0;
+margin: 0;
+font-size: 0;
+letter-spacing: initial;}
+
+.grid-cell {display: inline-block;
+vertical-align: middle;
+font-size: 1rem;
+position: relative;
+background-color: #fff;
+width: 50%;
+padding-bottom: 33.3%;
+height: 0;}
+
+.grid-cell-inner {
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+    min-width: 60%;
+}
+
+.grid-cell-inner-img {width: 80%;}
+.grid-cell-inner-img2 {height: 100%;}
+
+.grid-cell-even {background-color: #F5F5F5;}
+
+.iframe-grid {height: 50%;}
+
+.poster2 {display: inline-block;
+position: absolute;
+top: 0;
+bottom: 0;
+left: 0;
+right: 0;}
+.poster2 img {padding: 35px; max-height: 100%;}
+
+/* ABOUT CSS */
+.col-centered {margin: 0 auto; margin-left: 8%;}
+
+#about ul {margin-bottom: 50px;}
+
+/* DOWNLOADS CSS */
+#downloads {margin-bottom: 50px; margin-top: 20px;}
+
+.downloads-inner {padding: 50px;}
+
+.downloads-page img {max-width: 80%;}
+
+.downloads-cell {padding-bottom: 39.3% !important;}
+
+.downloads-img {padding: 15px;}
+
+/* RESPONSIVE IFRAME */
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+
+.iframe-container iframe {
+   border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;
+}
