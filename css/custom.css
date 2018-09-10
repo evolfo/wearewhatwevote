@@ -21,7 +21,7 @@ iframe {max-width: 100%;}
 .grid-cell {padding: 60px;}
 .grid-cell img {max-width: 100%;}
 .grid-cell p {font-size: 17px; padding-top: 10px; text-align: justify; text-justify: inter-word;}
-.grid-cell h2, h3, h4 {text-align: center;}
+.grid-cell h2, h4 {text-align: center;}
 
 .block {padding: 48px;}
 .absolute-block {display: table-cell; bottom: 0;}
