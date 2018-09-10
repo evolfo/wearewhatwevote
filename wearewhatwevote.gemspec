@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "wearewhatwevote"
   spec.version       = "0.1.0"
-  spec.authors       = ["ndrewtl"]
-  spec.email         = ["ndrewtl@users.noreply.github.com"]
+  spec.authors       = ["Angelo"]
+  spec.email         = ["spampinatodesign@gmail.com"]
 
   spec.summary       = %q{}
   spec.homepage      = "http://example.com"
