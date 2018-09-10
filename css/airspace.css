@@ -122,16 +122,17 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 600;
-  font-size: 31px;
+  font-size: 27px;
   line-height: 60px;
   letter-spacing: 1px;
   padding-bottom: 5px;
   margin: auto;
   margin-bottom: 40px;
   margin-top: 24px;
-  width: 57%;
+  width: 50%;
   background-color: #015e9b;
   color: #ff5c5c;
+  padding: 3px;
 
 }
 #slider .block p {
