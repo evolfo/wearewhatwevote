@@ -20,20 +20,11 @@ iframe {max-width: 100%;}
 
 .grid-cell {padding: 60px;}
 .grid-cell img {max-width: 100%;}
-<<<<<<< HEAD
-.grid-cell p {font-size: 17px; padding-top: 10px; text-align: justify; text-justify: inter-word;}
-.grid-cell h2, h4 {text-align: center;}
-=======
-<<<<<<< HEAD
+
 .grid-cell p {font-size: 19px; padding-top: 10px; text-align: justify; text-justify: inter-word; letter-spacing: -.2px;}
 .grid-cell h2, .grid-cell h4, .grid-cell h1 {text-align: center;}
 
 .grid-cell-social p {text-align: left;}
-=======
-.grid-cell p {font-size: 17px; padding-top: 10px; text-align: justify; text-justify: inter-word;}
-.grid-cell h2, h3, h4 {text-align: center;}
->>>>>>> parent of 0988ae1... fixing text-align center on h3
->>>>>>> 10a418a176f47893d74eda907314acf16a124e19
 
 .block {padding: 48px;}
 .absolute-block {display: table-cell; bottom: 0;}
@@ -42,11 +33,7 @@ iframe {max-width: 100%;}
 .centered img {width: 70%;}
 
 /* GRID CSS */
-<<<<<<< HEAD
-.grid-about h2, h3, h4 {margin-top: 0px;}
-=======
 .grid-about h1, h2, h3, h4 {margin-top: 0px;}
->>>>>>> 10a418a176f47893d74eda907314acf16a124e19
 
 .grid-full {padding: 0;
 margin: 0;
