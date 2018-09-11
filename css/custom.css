@@ -62,6 +62,7 @@ letter-spacing: initial;}
 .grid-cell-front-videos {min-width: 69%;}
 
 .iframe-grid {height: 50%;}
+#grid-cell-videos > .iframe-grid {height: 57%;}
 
 .poster2 {display: inline-block;
 
@@ -80,6 +81,7 @@ right: 0;}
 
 /* VIDEOS CSS */
 
+.videos-grid-full {padding-bottom: 30px;}
 
 .downloads-inner {padding: 50px;}
 
@@ -93,7 +95,7 @@ right: 0;}
 
 .grid-cell-videos {min-width: 80%;}
 
-#videos-iframe {height: 75%;}
+#videos-iframe {height: 81%;}
 
 .iframe-container h4 {font-size: 14px;}
 

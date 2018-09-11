@@ -432,7 +432,7 @@ px      68    160    252    */
   .block {padding: 0px;}
 
   /* VIDEOS PAGE */
-  .iframe-container > .col-xs-12 {display: none;}
+
 
 }
 
@@ -517,6 +517,10 @@ px      68    160    252    */
 
   #slider {padding: 80px 0 60px;}
 
+}
+
+@media only screen and (max-width: 1024px) {
+    .iframe-container > .col-xs-12 {display: none;}
 }
 
 @media only screen and (min-width: 767px) {
