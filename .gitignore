@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 .sass-cache
+=======
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+>>>>>>> 0988ae181dcf416d2e547cb486562d334284db33
 .DS_Store
