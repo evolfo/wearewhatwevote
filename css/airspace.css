@@ -92,8 +92,9 @@ header .navbar-default .navbar-nav {
 }
 header .navbar-default .navbar-nav li a {
   color: #333333;
-  padding: 10px 14px;
+  padding: 10px 11px;
   font-size: 15px;
+  letter-spacing: -.5px;
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
@@ -109,7 +110,6 @@ font header .navbar-default .navbar-nav li a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-position: 10% 0%;
-  padding: 80px 0 60px 0;
   position: relative;
 }
 #slider:before {
@@ -130,17 +130,9 @@ font header .navbar-default .navbar-nav li a:hover {
 #slider .block h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 600;
-  font-size: 27px;
-  line-height: 60px;
-  letter-spacing: 1px;
-  padding-bottom: 5px;
-  margin: auto;
-  margin-bottom: 40px;
-  margin-top: 24px;
-  width: 50%;
+ 
   background-color: #015e9b;
   color: #fff;
-  padding: 3px;
 
 }
 #slider .block p {

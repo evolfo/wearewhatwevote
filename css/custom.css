@@ -3,7 +3,7 @@
 .navbar-brand h1 {margin: 0; color: #b30808; font-family: 'Open Sans', sans-serif; font-weight: 100;}
 .navbar-brand a {}
 
-.centered-block {text-align: center;}
+.centered-block {text-align: center; max-width: 60%; margin: auto;}
 .centered-block a {color: inherit;}
 
 .frontButton {border: 1px solid #ff5c5c;}
@@ -15,17 +15,18 @@ iframe {max-width: 100%;}
 
 .no-padding {padding: 0; display: flex;}
 
+
+
 #intro > .container {padding: 0px; width: 100%;}
 #intro > .container > .row {margin: 0px;}
 
-.grid-cell {padding: 60px;}
 .grid-cell img {max-width: 100%;}
-.grid-cell p {font-size: 19px; padding-top: 10px; text-align: justify; text-justify: inter-word; letter-spacing: -.2px;}
+.grid-cell p {font-size: 19px; padding-top: 10px; text-align: justify; text-justify: inter-word; letter-spacing: -.6px;}
 .grid-cell h2, .grid-cell h4, .grid-cell h1 {text-align: center;}
 
 .grid-cell-social p {text-align: center; font-size: 23px;}
 
-.block {padding: 48px;}
+
 .absolute-block {display: table-cell; bottom: 0;}
 
 .centered {text-align: center;}
@@ -39,24 +40,15 @@ margin: 0;
 font-size: 0;
 letter-spacing: initial;}
 
-.grid-cell {display: inline-block;
-vertical-align: middle;
-font-size: 1rem;
-position: relative;
-background-color: #fff;
-width: 50%;
-padding-bottom: 33.3%;
-height: 0;}
+
 
 .grid-cell-inner {
-	position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
     -webkit-transform: translate(-50%, -50%);
     -moz-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
-    display: block;
     max-width: 100%;
     max-height: 100%;
     min-width: 60%;
@@ -65,14 +57,14 @@ height: 0;}
 .grid-cell-inner-img {width: 80%;}
 .grid-cell-inner-img2 {height: 100%;}
 
-.grid-cell-even {background-color: #DDD;}
+
 
 .grid-cell-front-videos {min-width: 69%;}
 
 .iframe-grid {height: 50%;}
 
 .poster2 {display: inline-block;
-position: absolute;
+
 top: 0;
 bottom: 0;
 left: 0;
@@ -82,18 +74,18 @@ right: 0;}
 /* ABOUT CSS */
 .col-centered {margin: 0 auto; margin-left: 8%;}
 
-#about {padding-top: 5rem;}
+
 #about ul {margin-bottom: 50px;}
 #about p {text-align: justify; text-justify: auto;}
 
 /* VIDEOS CSS */
-#downloads {margin-bottom: 50px; margin-top: 20px;}
+
 
 .downloads-inner {padding: 50px;}
 
 .downloads-page img {max-width: 80%;}
 
-.downloads-cell {padding-bottom: 39.3% !important;}
+
 
 .downloads-img {padding: 15px;}
 
@@ -106,6 +98,9 @@ right: 0;}
 .iframe-container h4 {font-size: 14px;}
 
 /* RESPONSIVE IFRAME */
+
+.centered-block > .iframe-container > iframe {max-width: 100%px;}
+
 .iframe-container {
   overflow: hidden;
   padding-top: 56.25%;
