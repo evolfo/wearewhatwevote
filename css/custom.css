@@ -6,7 +6,7 @@
 .centered-block {text-align: center;}
 .centered-block a {color: inherit;}
 
-.frontButton {border: 1px solid white;}
+.frontButton {border: 1px solid #ff5c5c;}
 
 /* INDEX CONTENT CSS */
 iframe {max-width: 100%;}
@@ -20,8 +20,11 @@ iframe {max-width: 100%;}
 
 .grid-cell {padding: 60px;}
 .grid-cell img {max-width: 100%;}
-.grid-cell p {font-size: 17px; padding-top: 10px; text-align: justify; text-justify: inter-word;}
-.grid-cell h2, h4 {text-align: center;}
+
+.grid-cell p {font-size: 19px; padding-top: 10px; text-align: justify; text-justify: inter-word; letter-spacing: -.2px;}
+.grid-cell h2, .grid-cell h4, .grid-cell h1 {text-align: center;}
+
+.grid-cell-social p {text-align: left;}
 
 .block {padding: 48px;}
 .absolute-block {display: table-cell; bottom: 0;}
@@ -30,7 +33,7 @@ iframe {max-width: 100%;}
 .centered img {width: 70%;}
 
 /* GRID CSS */
-.grid-about h2, h3, h4 {margin-top: 0px;}
+.grid-about h1, h2, h3, h4 {margin-top: 0px;}
 
 .grid-full {padding: 0;
 margin: 0;
@@ -65,6 +68,8 @@ height: 0;}
 
 .grid-cell-even {background-color: #F5F5F5;}
 
+.grid-cell-front-videos {min-width: 69%;}
+
 .iframe-grid {height: 50%;}
 
 .poster2 {display: inline-block;
@@ -78,10 +83,11 @@ right: 0;}
 /* ABOUT CSS */
 .col-centered {margin: 0 auto; margin-left: 8%;}
 
+#about {padding-top: 5rem;}
 #about ul {margin-bottom: 50px;}
 #about p {text-align: justify; text-justify: auto;}
 
-/* DOWNLOADS CSS */
+/* VIDEOS CSS */
 #downloads {margin-bottom: 50px; margin-top: 20px;}
 
 .downloads-inner {padding: 50px;}
@@ -91,6 +97,14 @@ right: 0;}
 .downloads-cell {padding-bottom: 39.3% !important;}
 
 .downloads-img {padding: 15px;}
+
+/* VIDEOS CSS */
+
+.grid-cell-videos {min-width: 80%;}
+
+#videos-iframe {height: 75%;}
+
+.iframe-container h4 {font-size: 14px;}
 
 /* RESPONSIVE IFRAME */
 .iframe-container {

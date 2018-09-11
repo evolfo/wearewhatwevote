@@ -1,0 +1,119 @@
+---
+layout: page
+title: #wearewhatwevote
+permalink: /posters
+---
+
+<section id="downloads">
+	<div class="container">
+		<ul class="grid-full">
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/future.jpg">
+	            <a href="img/posters/future.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/guns.jpg">
+	            <a href="img/posters/guns.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/healthcare.jpg">
+	            <a href="img/posters/healthcare.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/racial.jpg">
+	            <a href="img/posters/racial.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/immigration1.jpg">
+	            <a href="img/posters/immigration1.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/immigration2.jpg">
+	            <a href="img/posters/immigration2.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/women1.jpg">
+	            <a href="img/posters/women1.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/women2.jpg">
+	            <a href="img/posters/women2.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/love.jpg">
+	            <a href="img/posters/love-borders.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/education.jpg">
+	            <a href="img/posters/education-borders.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/womenofcolor.jpg">
+	            <a href="img/posters/womenofcolor-borders.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	      <li class="grid-cell downloads-cell">
+	        <div class="grid-cell-inner grid-cell-inner-img2">
+	          <div class="poster2">
+	            <img src="img/posters/future2.jpg">
+	            <a href="img/posters/future2-borders.pdf"><h4>Download PDF</h4></a>
+	          </div>
+	        </div>
+	      </li>
+	    </ul>
+
+		<!--<div class="col-centered col-mid-10 downloads-page">
+			<div class="col-xs-6">
+				<img src="img/posters/future.jpg">
+			</div>
+			<div class="col-xs-6">
+				<div class="downloads-inner">
+					<a href="img/posters/future.pdf"><h3>Download PDF</h3></a>
+				</div>
+			</div>
+		</div>-->
+	</div>
+</section>
