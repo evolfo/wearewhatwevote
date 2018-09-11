@@ -1,6 +1,6 @@
 /* HEADER CSS */
 
-.navbar-brand h1 {margin: 0; color: #b30808;}
+.navbar-brand h1 {margin: 0; color: #b30808; font-family: 'Open Sans', sans-serif; font-weight: 100;}
 .navbar-brand a {}
 
 .centered-block {text-align: center;}
@@ -20,8 +20,8 @@ iframe {max-width: 100%;}
 
 .grid-cell {padding: 60px;}
 .grid-cell img {max-width: 100%;}
-.grid-cell p {line-height: inherit; padding-top: 10px;}
-.grid-cell h3, h4 {text-align: center;}
+.grid-cell p {font-size: 17px; padding-top: 10px; text-align: justify; text-justify: inter-word;}
+.grid-cell h2, h4 {text-align: center;}
 
 .block {padding: 48px;}
 .absolute-block {display: table-cell; bottom: 0;}
@@ -30,7 +30,7 @@ iframe {max-width: 100%;}
 .centered img {width: 70%;}
 
 /* GRID CSS */
-.grid-about h3, h4 {margin-top: 0px;}
+.grid-about h2, h3, h4 {margin-top: 0px;}
 
 .grid-full {padding: 0;
 margin: 0;
@@ -79,6 +79,7 @@ right: 0;}
 .col-centered {margin: 0 auto; margin-left: 8%;}
 
 #about ul {margin-bottom: 50px;}
+#about p {text-align: justify; text-justify: auto;}
 
 /* DOWNLOADS CSS */
 #downloads {margin-bottom: 50px; margin-top: 20px;}
@@ -106,3 +107,10 @@ right: 0;}
    top: 0;
    width: 100%;
 }
+
+/* FOOTER CSS */
+.socials-footer li {padding: 0px 5px;}
+.socials-footer img {max-width: 50px; padding: 5px; margin-bottom: 5px;}
+
+
+.footer-manu > img {max-width: 100px; padding: 10px;}
