@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+.bundle
+.sass-cache
+_site
+Gemfile.lock
+=======
+.sass-cache
+>>>>>>> gh-pages
+.DS_Store
