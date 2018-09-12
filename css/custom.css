@@ -64,12 +64,7 @@ letter-spacing: initial;}
 .iframe-grid {height: 50%;}
 #grid-cell-videos > .iframe-grid {height: 57%;}
 
-.poster2 {display: inline-block;
-
-top: 0;
-bottom: 0;
-left: 0;
-right: 0;}
+.poster2 {}
 .poster2 img {padding: 35px; max-height: 100%;}
 
 /* ABOUT CSS */

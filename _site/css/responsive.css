@@ -407,7 +407,7 @@ px      68    160    252    */
   .grid-about > p {font-size:16px !important; line-height: 17px;}
   .grid-cell h1 {font-size: 22px;} 
 
-  .grid-cell > .grid-cell-inner {min-width: 68%;}
+  .grid-cell > .grid-cell-inner {min-width: 86%; min-height: 100%;}
 
   .poster2 > a > img {padding: 25px;}
 
@@ -440,14 +440,16 @@ px      68    160    252    */
   body > #slider {padding: 150px 0 150px 0;}
 
   .grid-cell {display: block; width: 100%; overflow: hidden; padding-bottom: 100%; height: 0;}
-  .grid-cell-inner {position: relative;}
+  .grid-cell-inner {position: relative; display: inline-block;}
   .grid-cell-inner-about {display: table; margin-top: 49%;}
+  .grid-cell > .grid-cell-inner {top: 0%;}
 
-  .half-margin-group {margin-top: 42%;}
-  .half-margin-iframe {margin-top: 30%;}
-  .half-margin-about {padding: 40px; margin-top: 48%; display: table-cell;}
+
+  .half-margin-group {}
+  .half-margin-iframe {}
+  .half-margin-about {padding: 40px; display: table-cell;}
   .half-margin-social {padding: 40px;}
-  .half-margin-poster {position: relative; text-align: center; margin-top: 3%;}
+  .half-margin-poster {position: relative; text-align: center; }
     .half-margin-poster > a > img {max-width: 75%;}
 
   .iframe-grid {padding: 30px;}
@@ -459,7 +461,7 @@ px      68    160    252    */
 
   .downloads-cell {padding-bottom: 110% !important; max-width: 80%; margin: auto;}
 
-  #grid-cell-videos {padding-bottom: 75%;}
+  #grid-cell-videos {padding-bottom: 100%;}
   .grid-cell-videos > .iframe-container {padding-top: 75%;}
   #videos-iframe {height: 100% !important;}
 }
