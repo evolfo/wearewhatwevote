@@ -445,8 +445,8 @@ px      68    160    252    */
   .grid-cell > .grid-cell-inner {top: 0%;}
 
 
-  .half-margin-group {}
-  .half-margin-iframe {}
+  .half-margin-group {margin-top: 48%;}
+  .half-margin-iframe {margin-top: 30%;}
   .half-margin-about {padding: 40px; display: table-cell;}
   .half-margin-social {padding: 40px;}
   .half-margin-poster {position: relative; text-align: center; }
