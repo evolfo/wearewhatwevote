@@ -400,7 +400,7 @@ px      68    160    252    */
 
 
 /* HEADER */
-  header {padding: 0px;}
+  header {padding: 4px;}
 
   .navbar-brand h1 {font-size: 25px; padding-top: 6px;}
   .navbar-brand p {letter-spacing: -.7px; font-size: 15px;}
