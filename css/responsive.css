@@ -461,7 +461,7 @@ px      68    160    252    */
 
   .downloads-cell {padding-bottom: 110% !important; max-width: 80%; margin: auto;}
 
-  #grid-cell-videos {padding-bottom: 100%;}
+  #grid-cell-videos {padding-bottom: 75%;}
   .grid-cell-videos > .iframe-container {padding-top: 75%;}
   #videos-iframe {height: 100% !important;}
 }
