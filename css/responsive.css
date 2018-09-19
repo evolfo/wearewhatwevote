@@ -471,7 +471,7 @@ px      68    160    252    */
 
   #slider .block > a > h1 {width: 100%;}
 
-  .downloads-cell {padding-bottom: 110% !important; max-width: 80%; margin: auto;}
+  .downloads-cell {padding-bottom: 110% !important; max-width: 76%; margin: auto;}
 
   #grid-cell-videos {padding-bottom: 75%;}
   .grid-cell-videos > .iframe-container {padding-top: 75%;}
