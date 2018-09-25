@@ -499,7 +499,7 @@ px      68    160    252    */
 
   .downloads-cell {padding-bottom: 39.3% !important;}
 
-  .centered-block {text-align: center; max-width: 60%; margin: auto;}
+  .centered-block {text-align: center; max-width: 100%; margin: auto;}
 
 
 }
@@ -558,7 +558,7 @@ px      68    160    252    */
 
   #downloads {margin-bottom: 50px; margin-top: 20px;}
 
-  .block {padding: 48px;}
+  .block {padding-top: 40px; padding-bottom: 40px;}
   .grid-cell-videos h4 {font-size: 14px;}
 }
 
