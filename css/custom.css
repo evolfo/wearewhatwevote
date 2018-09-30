@@ -32,6 +32,8 @@ iframe {max-width: 100%;}
 .centered {text-align: center;}
 .centered img {width: 70%;}
 
+.index-top-slider h4{color: white; text-align: center; padding-top: 25px; padding-bottom: 25px;}
+
 /* GRID CSS */
 .grid-about h1, h2, h3, h4 {margin-top: 0px;}
 
